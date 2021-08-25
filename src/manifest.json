@@ -1,0 +1,22 @@
+{
+  "name": "fuplus",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description":"LG U+ 인터넷 단말기 대수 제한 우회",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+	"https://*/*"
+      ],
+      "all_frames": true,
+      "js": ["js/content-script.js"]
+    }
+  ],
+  "icons":{
+    "32": "icons/32.png",
+    "72": "icons/72.png",
+    "128": "icons/128.png",
+    "512": "icons/512.png"
+  }
+}

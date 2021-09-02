@@ -11,6 +11,6 @@ LG U+ 단말기 대수 제한 우회 웨일 확장앱
 
 ![1](./slides/1.png)
 
-![2](./slides/1.png)
+![2](./slides/2.png)
 
-![3](./slides/1.png)
+![3](./slides/3.png)
